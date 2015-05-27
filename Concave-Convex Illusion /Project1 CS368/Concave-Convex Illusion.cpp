@@ -6,28 +6,16 @@
 //  Copyright (c) 2014 Daisy Ramos. All rights reserved.
 //
 
-#include <stdlib.h>
+
 
 #include <OpenGL/gl.h>
-
 #include <OpenGL/glu.h>
-
 #include <GLUT/glut.h>
 
+#include <stdlib.h>
 #include <math.h>
 #include <time.h>
 
-//#include <OpenGL/gl.h>
-//#include <OpenGL/glu.h>
-//#include <GLUT/glut.h>
-
-//#include <windows.h>
-//#include <gl\gl.h>
-//#include <gl\glu.h>
-//#include <V:/GLUT/glut.h>
-
-//#include <stdlib.h>
-//#include <math.h>
 
 static const int NUM_CIRCLES		= 6;
 static const float CIRCLE_RADIUS	= 28.0f;
